@@ -20,8 +20,3 @@ MIS student @ KAU, exploring how business and technology intersect. Currently fi
 
 ### 🔗 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-9D4EDD?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/reema-t-alzahrani)
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RealReema&show_icons=true&hide_border=true&title_color=9D4EDD&icon_color=C77DFF&text_color=333333&bg_color=ffffff)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RealReema&layout=compact&hide_border=true&title_color=9D4EDD&text_color=333333&bg_color=ffffff)
