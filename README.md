@@ -1,10 +1,10 @@
 ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=9D4EDD&center=true&vCenter=true&width=500&lines=Hi%2C+I'm+Reema+👋🏻;MIS+Student+%40+KAU;Exploring+Data+%2F+Cybersecurity)
 
 ### About Me
-MIS student @ KAU, exploring how business and technology intersect
+MIS student @ KAU, exploring how business and technology intersect.
 
-- Currently learning Python
-- Off-screen: Writing film reviews on Letterboxd and occasionally play Clone Hero
+- Currently learning Python.
+- Off-screen: Writing film reviews on Letterboxd and occasionally play Clone Hero.
 
 ---
 
